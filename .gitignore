@@ -1,6 +1,7 @@
 # CakePHP 3
 
 /vendor/*
+.composer
 /config/app.php
 
 /tmp/cache/models/*
