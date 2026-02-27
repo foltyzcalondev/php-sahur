@@ -10,7 +10,7 @@
      
     public function sahur()
     {
-       return "\e[33mSahurr!!!\e[0m"."\n";
+       return "Sahurrr!!!";
     }
    }
 ?>
