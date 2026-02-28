@@ -3,7 +3,7 @@
    use PhpSahur\PhpSahur;
 
    class PhpSahurTest extends TestCase {
-       public function TestingSahur() {
+       public function testSahur() {
            $sahur = new PhpSahur();
            $this->assertEquals("Sahurrr!!!", $sahur->sahur());
        }
